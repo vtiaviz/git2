@@ -1,4 +1,9 @@
 def text():
     print("texte")
 
-    text()
+text()
+    
+def text2():
+    print("texte")
+
+text2()
